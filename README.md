@@ -2,28 +2,43 @@
 
 ## Project Overview
 
-This repository documents my practical work with the NCBI BLAST tool as part of my Bioinformatics learning and university coursework.
+This project demonstrates pairwise sequence alignment using the NCBI BLAST tool. The analysis compares hemoglobin beta protein sequences from human and mouse to evaluate their similarity and evolutionary relationship.
 
 ## Objective
 
-To understand how BLAST compares biological sequences and identifies similarities between DNA or protein sequences.
+To perform pairwise sequence alignment using BLAST and interpret the similarity between two homologous protein sequences.
+
+## Sequences Used
+
+- Human Hemoglobin Beta (HBB)
+- Mouse Hemoglobin Beta (Hbb-b1)
 
 ## Tool Used
 
 - NCBI BLAST
 
+## Results
+
+- Alignment Score: ~260 bits
+- Percent Identity: ~88% 
+- Percent Positives (Similarity): ~90%
+- Number of Gaps: 0–2
+- E-value: 0.0
+
+## Biological Interpretation
+
+The BLAST analysis showed a very high similarity between the human and mouse hemoglobin beta sequences. This indicates that these proteins are evolutionarily conserved and perform similar biological functions in both organisms.
+
 ## Skills Practiced
 
-- Sequence analysis
-- Database searching
-- Bioinformatics workflow
-- Biological data interpretation
+- Sequence alignment
+- BLAST analysis
+- Biological database searching
+- Interpretation of sequence similarity
 
-## Status
+## Project Status
 
-🚧 Project in progress.
-
-More files, screenshots, and analysis will be added as I continue learning.
+Completed as part of my undergraduate Bioinformatics coursework. This repository is being expanded into a professional portfolio project.
 
 ---
 
